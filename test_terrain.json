@@ -1,0 +1,8130 @@
+{
+  "config": {
+    "seed": 123,
+    "sea_level": 0,
+    "land_ratio": 0.29,
+    "noise_params": {
+      "octaves": 6,
+      "persistence": 0.5,
+      "lacunarity": 2,
+      "scale": 0.01,
+      "hurst_exp": 0.85
+    }
+  },
+  "stats": {
+    "elevation_range": [
+      -17703.218750808566,
+      0.33070532515202744
+    ],
+    "elevation_mean": -11033.449873849551,
+    "elevation_std_dev": 7182.552082448337,
+    "land_percentage": 28.77777777777778,
+    "water_percentage": 71.22222222222221,
+    "hypsometric_match": 0.850931241408844,
+    "total_tiles": 900,
+    "land_tiles": 259,
+    "water_tiles": 641
+  },
+  "tiles": [
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 0
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": -1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": -1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": -2
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": -2
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": -3
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": -3
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": -4
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": -4
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": -5
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": -5
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": -6
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": -6
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -7
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -7
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -8
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -8
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -9
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -9
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -10
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -10
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -11
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -11
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -12
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -12
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -13
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -13
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -14
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -14
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -15
+      },
+      "elevation": 0.33070532515202744,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 0
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 0
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": -1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": -1
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": -2
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": -2
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": -3
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": -3
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": -4
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": -4
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": -5
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": -5
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -6
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -6
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -7
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -7
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -8
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -8
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -9
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -9
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -10
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -10
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -11
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -11
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -12
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -12
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -13
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -13
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -14
+      },
+      "elevation": 0.33070532515202744,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 2
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 0
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 0
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": -1
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": -1
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": -2
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": -2
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": -3
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": -3
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": -4
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": -4
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -5
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -5
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -6
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -6
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -7
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -7
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -8
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -8
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -9
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -9
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -10
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -10
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -11
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -11
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -12
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -12
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -13
+      },
+      "elevation": 0.33070532515202744,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 3
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 2
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 2
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 1
+      },
+      "elevation": -17292.795514029785,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 1
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 0
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 0
+      },
+      "elevation": -15304.269837078482,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": -1
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": -1
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": -2
+      },
+      "elevation": -14060.177648506835,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": -2
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": -3
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": -3
+      },
+      "elevation": -13898.842328923496,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -4
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -4
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -5
+      },
+      "elevation": -16208.315697063706,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -5
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -6
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -6
+      },
+      "elevation": -15445.585455490402,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -7
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -7
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -8
+      },
+      "elevation": -15671.153767078378,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -8
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -9
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -9
+      },
+      "elevation": -15381.83354878638,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -10
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -10
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -11
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -11
+      },
+      "elevation": 0.22346914996226344,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -12
+      },
+      "elevation": 0.33070532515202744,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 4
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 3
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 3
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 2
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 2
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 1
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 1
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 0
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 0
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": -1
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": -1
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": -2
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": -2
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -3
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -3
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -4
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -4
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -5
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -5
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -6
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -6
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -7
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -7
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -8
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -8
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -9
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -9
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -10
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -10
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -11
+      },
+      "elevation": 0.2151148385457649,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 5
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 4
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 4
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 3
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 3
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 2
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 2
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 1
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 1
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 0
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 0
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": -1
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": -1
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -2
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -2
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -3
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -3
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -4
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -4
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -5
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -5
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -6
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -6
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -7
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -7
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -8
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -8
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -9
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -9
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -10
+      },
+      "elevation": 0.2151148385457649,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 6
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 5
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 5
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 4
+      },
+      "elevation": -15366.038067239662,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 4
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 3
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 3
+      },
+      "elevation": -15949.870879971615,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 2
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 2
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 1
+      },
+      "elevation": -14589.417122821207,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 1
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 0
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 0
+      },
+      "elevation": -14670.024506141861,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": -1
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": -1
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -2
+      },
+      "elevation": -16091.848337556492,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -2
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -3
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -3
+      },
+      "elevation": -16147.006183929734,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -4
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -4
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -5
+      },
+      "elevation": -16239.699179091589,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -5
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -6
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -6
+      },
+      "elevation": -16265.993116830536,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -7
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -7
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -8
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -8
+      },
+      "elevation": 0.20944685503872076,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -9
+      },
+      "elevation": 0.2151148385457649,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 7
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 6
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 6
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 5
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 5
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 4
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 4
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 3
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 3
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 2
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 2
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 1
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 1
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 0
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 0
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": -1
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": -1
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -2
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -2
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -3
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -3
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -4
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -4
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -5
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -5
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -6
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -6
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -7
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -7
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -8
+      },
+      "elevation": 0.1662247756615514,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 8
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 7
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 7
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 6
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 6
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 5
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 5
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 4
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 4
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 3
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 3
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 2
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 2
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 1
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 1
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 0
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 0
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": -1
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": -1
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -2
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -2
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -3
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -3
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -4
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -4
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -5
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -5
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -6
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -6
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -7
+      },
+      "elevation": 0.1662247756615514,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 9
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 8
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 8
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 7
+      },
+      "elevation": -13998.660586413012,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 7
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 6
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 6
+      },
+      "elevation": -14247.004087521584,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 5
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 5
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 4
+      },
+      "elevation": -15054.20575008374,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 4
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 3
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 3
+      },
+      "elevation": -14837.335511705101,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 2
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 2
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 1
+      },
+      "elevation": -17109.97141655666,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 1
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 0
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 0
+      },
+      "elevation": -16977.78010970266,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": -1
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": -1
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -2
+      },
+      "elevation": -17602.415239550297,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -2
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -3
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -3
+      },
+      "elevation": -17703.218750808566,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -4
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -4
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -5
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -5
+      },
+      "elevation": 0.13359348032334548,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -6
+      },
+      "elevation": 0.1662247756615514,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 10
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 9
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 9
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 8
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 8
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 7
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 7
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 6
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 6
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 5
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 5
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 4
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 4
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 3
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 3
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 2
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 2
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 1
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 1
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 0
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 0
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": -1
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": -1
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -2
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -2
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -3
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -3
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -4
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -4
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -5
+      },
+      "elevation": 0.15462530081040818,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 11
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 10
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 10
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 9
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 9
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 8
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 8
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 7
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 7
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 6
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 6
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 5
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 5
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 4
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 4
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 3
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 3
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 2
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 2
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 1
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 1
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 0
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 0
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": -1
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": -1
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -2
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -2
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -3
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -3
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -4
+      },
+      "elevation": 0.15462530081040818,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 12
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 11
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 11
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 10
+      },
+      "elevation": -13269.12036143775,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 10
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 9
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 9
+      },
+      "elevation": -14086.631060569587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 8
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 8
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 7
+      },
+      "elevation": -14935.944537627944,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 7
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 6
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 6
+      },
+      "elevation": -14882.208550740204,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 5
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 5
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 4
+      },
+      "elevation": -16718.180053532647,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 4
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 3
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 3
+      },
+      "elevation": -16944.045057846233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 2
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 2
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 1
+      },
+      "elevation": -17187.751085443357,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 1
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 0
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 0
+      },
+      "elevation": -17496.81234576136,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": -1
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": -1
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -2
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -2
+      },
+      "elevation": 0.14756939259438737,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -3
+      },
+      "elevation": 0.15462530081040818,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 13
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 12
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 12
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 11
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 11
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 10
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 10
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 9
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 9
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 8
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 8
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 7
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 7
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 6
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 6
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 5
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 5
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 4
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 4
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 3
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 3
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 2
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 2
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 1
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 1
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 0
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 0
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": -1
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": -1
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -2
+      },
+      "elevation": 0.16453749404550636,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 14
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 13
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 13
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 12
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 12
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 11
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 11
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 10
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 10
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 9
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 9
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 8
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 8
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 7
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 7
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 6
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 6
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 5
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 5
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 4
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 4
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 3
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 3
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 2
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 2
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 1
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 1
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 0
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 0
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": -1
+      },
+      "elevation": 0.16453749404550636,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 15
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 14
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 14
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 13
+      },
+      "elevation": -15783.08764509483,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 13
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 12
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 12
+      },
+      "elevation": -16031.627009696042,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 11
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 11
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 10
+      },
+      "elevation": -16335.203609890415,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 10
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 9
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 9
+      },
+      "elevation": -16112.883375213509,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 8
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 8
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 7
+      },
+      "elevation": -15119.696768768234,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 7
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 6
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 6
+      },
+      "elevation": -15140.360541017692,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 5
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 5
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 4
+      },
+      "elevation": -16383.931853144484,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 4
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 3
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 3
+      },
+      "elevation": -16708.528538407463,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 2
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 2
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 1
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 1
+      },
+      "elevation": 0.15182945833118117,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 0
+      },
+      "elevation": 0.16453749404550636,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 16
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 15
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 15
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 14
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 14
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 13
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 13
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 12
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 12
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 11
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 11
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 10
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 10
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 9
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 9
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 8
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 8
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 7
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 7
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 6
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 6
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 5
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 5
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 4
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 4
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 3
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 3
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 2
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 2
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 1
+      },
+      "elevation": 0.18201186614199896,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 17
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 16
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 16
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 15
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 15
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 14
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 14
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 13
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 13
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 12
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 12
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 11
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 11
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 10
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 10
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 9
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 9
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 8
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 8
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 7
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 7
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 6
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 6
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 5
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 5
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 4
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 4
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 3
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 3
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 2
+      },
+      "elevation": 0.18201186614199896,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 18
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 17
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 17
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 16
+      },
+      "elevation": -15112.344672816678,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 16
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 15
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 15
+      },
+      "elevation": -16044.912516650265,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 14
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 14
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 13
+      },
+      "elevation": -16102.643902096723,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 13
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 12
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 12
+      },
+      "elevation": -16080.195136548587,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 11
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 11
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 10
+      },
+      "elevation": -15042.150621329527,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 10
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 9
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 9
+      },
+      "elevation": -15123.640844666947,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 8
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 8
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 7
+      },
+      "elevation": -16438.76796199017,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 7
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 6
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 6
+      },
+      "elevation": -16568.519485064517,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 5
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 5
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 4
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 4
+      },
+      "elevation": 0.19696975104650588,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 3
+      },
+      "elevation": 0.18201186614199896,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 19
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 18
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 18
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 17
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 17
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 16
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 16
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 15
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 15
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 14
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 14
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 13
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 13
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 12
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 12
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 11
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 11
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 10
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 10
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 9
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 9
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 8
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 8
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 7
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 7
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 6
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 6
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 5
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 5
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 4
+      },
+      "elevation": 0.1563491621231368,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 20
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 19
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 19
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 18
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 18
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 17
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 17
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 16
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 16
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 15
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 15
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 14
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 14
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 13
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 13
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 12
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 12
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 11
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 11
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 10
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 10
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 9
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 9
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 8
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 8
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 7
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 7
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 6
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 6
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 5
+      },
+      "elevation": 0.1563491621231368,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 21
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 20
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 20
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 19
+      },
+      "elevation": -15134.083710439914,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 19
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 18
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 18
+      },
+      "elevation": -15506.01391311773,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 17
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 17
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 16
+      },
+      "elevation": -16382.270439682563,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 16
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 15
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 15
+      },
+      "elevation": -16415.52835492795,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 14
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 14
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 13
+      },
+      "elevation": -15153.742351506175,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 13
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 12
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 12
+      },
+      "elevation": -15136.239820105016,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 11
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 11
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 10
+      },
+      "elevation": -16423.67084543491,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 10
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 9
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 9
+      },
+      "elevation": -16948.984757446233,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 8
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 8
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 7
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 7
+      },
+      "elevation": 0.16900218425787014,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 6
+      },
+      "elevation": 0.1563491621231368,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 22
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 21
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 21
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 20
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 20
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 19
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 19
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 18
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 18
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 17
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 17
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 16
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 16
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 15
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 15
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 14
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 14
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 13
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 13
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 12
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 12
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 11
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 11
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 10
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 10
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 9
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 9
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 8
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 8
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 7
+      },
+      "elevation": 0.17075474473425073,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 23
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 22
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 22
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 21
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 21
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 20
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 20
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 19
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 19
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 18
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 18
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 17
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 17
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 16
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 16
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 15
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 15
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 14
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 14
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 13
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 13
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 12
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 12
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 11
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 11
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 10
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 10
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 9
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 9
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 8
+      },
+      "elevation": 0.17075474473425073,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 24
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 23
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 23
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 22
+      },
+      "elevation": -14604.755250642056,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 22
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 21
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 21
+      },
+      "elevation": -15348.440333132177,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 20
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 20
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 19
+      },
+      "elevation": -16360.449551610667,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 19
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 18
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 18
+      },
+      "elevation": -16405.97123641025,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 17
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 17
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 16
+      },
+      "elevation": -15242.46627205161,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 16
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 15
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 15
+      },
+      "elevation": -15194.040636259637,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 14
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 14
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 13
+      },
+      "elevation": -16671.592393715804,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 13
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 12
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 12
+      },
+      "elevation": -16795.697892656815,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 11
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 11
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 10
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 10
+      },
+      "elevation": 0.18753541660223472,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 9
+      },
+      "elevation": 0.17075474473425073,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 25
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 24
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 24
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 23
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 23
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 22
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 22
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 21
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 21
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 20
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 20
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 19
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 19
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 18
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 18
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 17
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 17
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 16
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 16
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 15
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 15
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 14
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 14
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 13
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 13
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 12
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 12
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 11
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 11
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 10
+      },
+      "elevation": 0.00001250178581811903,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 26
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 25
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 25
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 24
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 24
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 23
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 23
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 22
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 22
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 21
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 21
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 20
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 20
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 19
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 19
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 18
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 18
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 17
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 17
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 16
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 16
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 15
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 15
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 14
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 14
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 13
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 13
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 12
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 12
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 11
+      },
+      "elevation": 0.00001250178581811903,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 27
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 26
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 26
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 25
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 25
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 24
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 24
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 23
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 23
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 22
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 22
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 21
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 21
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 20
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 20
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 19
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 19
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 18
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 18
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 17
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 17
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 16
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 16
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 15
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 15
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 14
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 14
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 13
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 13
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 12
+      },
+      "elevation": 0.00001250178581811903,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 28
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 27
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 27
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 26
+      },
+      "elevation": 0.1678283162783551,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 26
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 25
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 25
+      },
+      "elevation": 0.1481904131949728,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 24
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 24
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 23
+      },
+      "elevation": 0.11855632125217008,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 23
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 22
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 22
+      },
+      "elevation": 0.1306320447035549,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 21
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 21
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 20
+      },
+      "elevation": 0.15307723534838544,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 20
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 19
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 19
+      },
+      "elevation": 0.12813737590611238,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 18
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 18
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 17
+      },
+      "elevation": 0.06861658281532067,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 17
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 16
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 16
+      },
+      "elevation": 0.060531932792757606,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 15
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 15
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 14
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 14
+      },
+      "elevation": -6000,
+      "is_land": false,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 13
+      },
+      "elevation": 0.00001250178581811903,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 0,
+        "R": 29
+      },
+      "elevation": 0.23660574900137166,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 1,
+        "R": 28
+      },
+      "elevation": 0.23660574900137166,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 2,
+        "R": 28
+      },
+      "elevation": 0.23660574900137166,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 3,
+        "R": 27
+      },
+      "elevation": 0.23660574900137166,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 4,
+        "R": 27
+      },
+      "elevation": 0.16848055712680454,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 5,
+        "R": 26
+      },
+      "elevation": 0.16848055712680454,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 6,
+        "R": 26
+      },
+      "elevation": 0.16848055712680454,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 7,
+        "R": 25
+      },
+      "elevation": 0.13929574897463565,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 8,
+        "R": 25
+      },
+      "elevation": 0.13929574897463565,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 9,
+        "R": 24
+      },
+      "elevation": 0.13929574897463565,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 10,
+        "R": 24
+      },
+      "elevation": 0.12884315013943393,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 11,
+        "R": 23
+      },
+      "elevation": 0.12884315013943393,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 12,
+        "R": 23
+      },
+      "elevation": 0.12884315013943393,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 13,
+        "R": 22
+      },
+      "elevation": 0.15873813927784247,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 14,
+        "R": 22
+      },
+      "elevation": 0.15873813927784247,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 15,
+        "R": 21
+      },
+      "elevation": 0.15873813927784247,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 16,
+        "R": 21
+      },
+      "elevation": 0.1382984306044838,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 17,
+        "R": 20
+      },
+      "elevation": 0.1382984306044838,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 18,
+        "R": 20
+      },
+      "elevation": 0.1382984306044838,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 19,
+        "R": 19
+      },
+      "elevation": 0.0732156283654118,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 20,
+        "R": 19
+      },
+      "elevation": 0.0732156283654118,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 21,
+        "R": 18
+      },
+      "elevation": 0.0732156283654118,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 22,
+        "R": 18
+      },
+      "elevation": 0.08161679671351653,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 23,
+        "R": 17
+      },
+      "elevation": 0.08161679671351653,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 24,
+        "R": 17
+      },
+      "elevation": 0.08161679671351653,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 25,
+        "R": 16
+      },
+      "elevation": 0.00015063299072078185,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 26,
+        "R": 16
+      },
+      "elevation": 0.00015063299072078185,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 27,
+        "R": 15
+      },
+      "elevation": 0.00015063299072078185,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 28,
+        "R": 15
+      },
+      "elevation": 0.00015063299072078185,
+      "is_land": true,
+      "distance_to_water": 0
+    },
+    {
+      "coordinates": {
+        "Q": 29,
+        "R": 14
+      },
+      "elevation": 0.00006350221114454495,
+      "is_land": true,
+      "distance_to_water": 0
+    }
+  ]
+}
