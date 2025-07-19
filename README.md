@@ -17,6 +17,15 @@ This project implements a comprehensive world generation pipeline that creates r
 - **Distance calculations** with shortest path for world maps
 - **Comprehensive test coverage**: 18 tests, 100% passing
 
+#### TERRAIN-001: Basic Terrain Generation
+- **Diamond-Square algorithm** with fractal noise generation
+- **Multi-octave noise** with scientifically-based parameters (H=0.85)
+- **Hypsometric curve validation** matching Earth's 29% land distribution
+- **Statistical validation** with realism checks and anomaly detection
+- **CLI commands**: `generate-terrain`, `terrain-stats`, `validate-terrain`, `demo-terrain`
+- **JSON export/import** with complete terrain data persistence
+- **Comprehensive test coverage**: 47 tests, 100% passing
+
 ## Quick Start
 
 ### Build and Test
@@ -32,6 +41,11 @@ go test ./...
 # Demo the coordinate system
 ./hex-world demo-coords --size=20x20 --topology=world
 ./hex-world demo-distance --from=0,0 --to=9,0 --topology=world
+
+# Demo terrain generation
+./hex-world demo-terrain --size=50x50 --seed=42
+./hex-world generate-terrain --size=100x100 --seed=123 --output=my_terrain.json
+./hex-world terrain-stats my_terrain.json
 ```
 
 ### Features
@@ -59,12 +73,21 @@ pkg/
     coordinate.go      # Axial coordinate implementation
     topology.go        # Grid with topology support
     *_test.go         # Comprehensive tests
+  terrain/             # Terrain generation system
+    generator.go       # Main terrain generation engine
+    heightmap.go      # HexTile and terrain data structures
+    validation.go     # Statistical validation functions
+    *_test.go        # Terrain generation tests
+internal/
+  noise/              # Fractal noise algorithms
+    diamond_square.go # Diamond-Square implementation
 cmd/
-  hex-world/           # CLI application
-    main.go           # Demo commands
+  hex-world/          # CLI application
+    main.go          # Demo and terrain commands
 docs/
-  features/           # Feature documentation
-    HEX-001.md       # Hex grid foundation spec
+  features/          # Feature documentation
+    HEX-001.md      # Hex grid foundation spec
+    TERRAIN-001.md  # Terrain generation spec
 ```
 
 ### Design Philosophy
@@ -77,24 +100,26 @@ The system follows a **12-step deliverable workflow** ensuring:
 
 ## Roadmap
 
-### 🔄 Next: TERRAIN-001
-- Diamond-Square algorithm for fractal terrain
-- Multi-octave noise generation
-- Hypsometric curve matching Earth's distribution
-- Land/water designation
+### 🔄 Next: VIZ-001 (Visualization System)
+- JPEG/PNG export with metadata
+- Color mapping for elevation data
+- Hillshading for terrain visualization
+- Debug overlay with hex coordinates
 
 ### 🔮 Future Deliverables
-- **VIZ-001**: Visualization and rendering system
 - **HYDRO-001**: Water flow and drainage networks
 - **CLIMATE-001**: Temperature and precipitation modeling
 - **SOIL-001**: Soil profile generation
 - **BIOME-001**: Biome classification system
-- And 7 more deliverables...
+- **WEATHER-001**: Dynamic weather simulation
+- **EROSION-001**: Stream power erosion modeling
+- And 5 more deliverables...
 
 ## Documentation
 
 - **[DESIGN.md](DESIGN.md)**: Complete technical specification
 - **[HEX-001 Feature Plan](docs/features/HEX-001.md)**: Hex grid implementation details
+- **[TERRAIN-001 Feature Plan](docs/features/TERRAIN-001.md)**: Terrain generation implementation details
 
 ## Contributing
 
