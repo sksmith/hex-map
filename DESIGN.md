@@ -823,12 +823,12 @@ Each deliverable follows this exact cycle:
 #### Steps 9-12: Integration Phase
 9. **Run All Tests**: `go test ./...` - ensure no regressions
 10. **Commit & Push**: Final commit with clean history
-11. **Create PR**: 
+12. **Post-Approval**: Update design doc, README, commit
+13. **Squash commit**: Squash the commit for easy review
+14. **Create PR**: 
     - Title: `[DELIVERABLE-ID]: [Brief description]`
     - Description: Demo instructions, testing notes, validation data
     - Request review and demo
-
-12. **Post-Approval**: Update design doc, README, merge to main
 
 ### Demo Requirements Per Deliverable
 
